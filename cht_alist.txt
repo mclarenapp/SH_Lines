@@ -2,19 +2,19 @@ JsonpData({
     "lines":[
         {
             "title":"*彩虹糖-推荐线路-首选",
-            "host":"http://cht3.appdvd.com"
+            "host":"http://cht2.app210.com"
         },
         {
             "title":"*彩虹糖-临时线路-备用①",
-            "host":"http://cht4.app210.com"
+            "host":"http://cht3.app210.com"
         },
         {
             "title":"*彩虹糖-临时线路-备用②",
-            "host":"http://154.39.239.230:202"
+            "host":"http://cht4.app210.com"
         },
         {
             "title":"*彩虹糖-临时线路-备用③",
-            "host":"http://154.39.249.43:202"
+            "host":"http://cht4.app210.com"
         }
 ]
 })
