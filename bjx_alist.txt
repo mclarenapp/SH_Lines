@@ -2,19 +2,19 @@ JsonpData({
     "lines":[
         {
             "title":"*北极星-推荐线路-首选",
-            "host":"http://bjx3.appdvd.com"
+            "host":"http://bjx2.app012.com"
         },
         {
             "title":"*北极星-临时线路-备用①",
-            "host":"http://bjx4.app012.com"
+            "host":"http://bjx3.app012.com"
         },
         {
             "title":"*北极星-临时线路-备用②",
-            "host":"http://154.39.238.213:555"
+            "host":"http://bjx4.app012.com"
         },
         {
             "title":"*北极星-临时线路-备用③",
-            "host":"http://154.39.249.12:555"
+            "host":"http://bjx4.app012.com"
         }
 ]
 })

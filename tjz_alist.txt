@@ -2,19 +2,19 @@ JsonpData({
     "lines":[
         {
             "title":"*淘金者-推荐线路-首选",
-            "host":"http://tjz3.appdvd.com"
+            "host":"http://tjz2.app012.com"
         },
         {
             "title":"*淘金者-临时线路-备用①",
+            "host":"http://tjz3.app012.com"
+        },
+        {
+            "title":"*淘金者-临时线路-备用②",
             "host":"http://tjz4.app012.com"
         },
         {
             "title":"*淘金者-临时线路-备用②",
-            "host":"http://154.39.238.230:999"
-        },
-        {
-            "title":"*淘金者-临时线路-备用②",
-            "host":"http://154.39.249.16:999"
+            "host":"http://tjz4.app012.com"
         }
 ]
 })

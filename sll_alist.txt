@@ -2,19 +2,19 @@ JsonpData({
     "lines":[
         {
             "title":"*圣罗兰-推荐线路-首选",
-            "host":"http://sll3.appdvd.com"
+            "host":"http://sll2.app012.com"
         },
         {
             "title":"*圣罗兰-临时线路-备用①",
-            "host":"http://sll4.app012.com"
+            "host":"http://sll3.app012.com"
         },
         {
             "title":"*圣罗兰-临时线路-备用②",
-            "host":"http://154.39.239.215:5959"
+            "host":"http://sll4.app012.com"
         },
         {
             "title":"*圣罗兰-临时线路-备用③",
-            "host":"http://154.39.249.39:5959"
+            "host":"http://sll4.app012.com"
         }
 ]
 })

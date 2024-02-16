@@ -2,19 +2,19 @@ JsonpData({
     "lines":[
         {
             "title":"*抢多多-推荐线路-首选",
-            "host":"http://qdd3.appdvd.com"
+            "host":"http://qdd2.app012.com"
         },
         {
             "title":"*抢多多-临时线路-备用①",
-            "host":"http://qdd4.app012.com"
+            "host":"http://qdd3.app012.com"
         },
         {
             "title":"*抢多多-临时线路-备用②",
-            "host":"http://154.39.238.241:3737"
+            "host":"http://qdd4.app012.com"
         },
         {
             "title":"*抢多多-临时线路-备用③",
-            "host":"http://154.39.249.31:3737"
+            "host":"http://qdd4.app012.com"
         }
 ]
 })
