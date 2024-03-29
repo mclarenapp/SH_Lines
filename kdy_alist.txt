@@ -2,19 +2,19 @@ JsonpData({
     "lines":[
         {
             "title":"*卡地亚-推荐线路-首选",
-            "host":"http://kdy2.app210.com"
+            "host":"http://kdy2.app012.com"
         },
         {
             "title":"*卡地亚-临时线路-备用①",
-            "host":"http://kdy3.app210.com"
+            "host":"http://kdy3.app012.com"
         },
         {
             "title":"*卡地亚-临时线路-备用②",
-            "host":"http://kdy4.app210.com"
+            "host":"http://kdy4.app012.com"
         },
         {
             "title":"*卡地亚-临时线路-备用③",
-            "host":"http://kdy4.app210.com"
+            "host":"http://kdy4.app012.com"
         }
 ]
 })
