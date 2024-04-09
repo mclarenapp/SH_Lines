@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*双赢赢-推荐线路-首选",
+            "host":"http://syy2.app210.com"
+        },
+        {
+            "title":"*双赢赢-临时线路-备用①",
+            "host":"http://syy3.app210.com"
+        },
+        {
+            "title":"*双赢赢-临时线路-备用②",
+            "host":"http://syy4.app210.com"
+        },
+        {
+            "title":"*双赢赢-临时线路-备用③",
+            "host":"http://syy4.app210.com"
+        }
+]
+})

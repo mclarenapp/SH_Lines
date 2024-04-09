@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*巴比特-推荐线路-首选",
+            "host":"http://bbt2.app210.com"
+        },
+        {
+            "title":"*巴比特-临时线路-备用①",
+            "host":"http://bbt3.app210.com"
+        },
+        {
+            "title":"*巴比特-临时线路-备用②",
+            "host":"http://bbt4.app210.com"
+        },
+        {
+            "title":"*巴比特-临时线路-备用③",
+            "host":"http://bbt4.app210.com"
+        }
+]
+})
