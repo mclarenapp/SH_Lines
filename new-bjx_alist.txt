@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*北极星-推荐线路-首选",
+            "host":"http://xbjx2.app012.com"
+        },
+        {
+            "title":"*北极星-临时线路-备用①",
+            "host":"http://xbjx3.app012.com"
+        },
+        {
+            "title":"*北极星-临时线路-备用②",
+            "host":"http://xbjx4.app012.com"
+        },
+        {
+            "title":"*北极星-临时线路-备用③",
+            "host":"http://xbjx4.app012.com"
+        }
+]
+})
