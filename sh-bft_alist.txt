@@ -2,19 +2,19 @@ JsonpData({
     "lines":[
         {
             "title":"*巴菲特-推荐线路-首选",
-            "host":"http://bft2.456sh.com"
+            "host":"http://bft1.456sh.com"
         },
         {
             "title":"*巴菲特-临时线路-备用①",
-            "host":"http://bft3.456sh.com"
+            "host":"http://bft2.456sh.com"
         },
         {
             "title":"*巴菲特-临时线路-备用②",
-            "host":"http://bft4.456sh.com"
+            "host":"http://bft3.456sh.com"
         },
         {
             "title":"*巴菲特-临时线路-备用③",
-            "host":"http://bft5.456sh.com"
+            "host":"http://bft4.456sh.com"
         }
 ]
 })

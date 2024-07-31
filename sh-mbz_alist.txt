@@ -2,19 +2,19 @@ JsonpData({
     "lines":[
         {
             "title":"*漫步者-推荐线路-首选",
-            "host":"http://mbz2.456sh.com"
+            "host":"http://mbz1.456sh.com"
         },
         {
             "title":"*漫步者-临时线路-备用①",
-            "host":"http://mbz3.456sh.com"
+            "host":"http://mbz2.456sh.com"
         },
         {
             "title":"*漫步者-临时线路-备用②",
-            "host":"http://mbz4.456sh.com"
+            "host":"http://mbz3.456sh.com"
         },
         {
             "title":"*漫步者-临时线路-备用③",
-            "host":"http://mbz5.456sh.com"
+            "host":"http://mbz4.456sh.com"
         }
 ]
 })
