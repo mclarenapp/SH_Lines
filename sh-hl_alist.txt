@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*哈雷-推荐线路-首选",
+            "host":"http://hl2.456sh.com"
+        },
+        {
+            "title":"*哈雷-临时线路-备用①",
+            "host":"http://hl3.456sh.com"
+        },
+        {
+            "title":"*哈雷-临时线路-备用②",
+            "host":"http://hl4.456sh.com"
+        },
+        {
+            "title":"*哈雷-临时线路-备用③",
+            "host":"http://hl5.456sh.com"
+        }
+]
+})
