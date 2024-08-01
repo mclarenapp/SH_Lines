@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*轩尼诗-推荐线路-首选",
+            "host":"http://xns1.520sh.com"
+        },
+        {
+            "title":"*轩尼诗-临时线路-备用①",
+            "host":"http://xns2.520sh.com"
+        },
+        {
+            "title":"*轩尼诗-临时线路-备用②",
+            "host":"http://xns3.520sh.com"
+        },
+        {
+            "title":"*轩尼诗-临时线路-备用③",
+            "host":"http://xns4.520sh.com"
+        }
+]
+})
