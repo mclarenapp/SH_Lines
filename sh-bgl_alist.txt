@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*宝格丽-推荐线路-首选",
+            "host":"http://gbl1.520sh.com"
+        },
+        {
+            "title":"*宝格丽-临时线路-备用①",
+            "host":"http://gbl2.520sh.com"
+        },
+        {
+            "title":"*宝格丽-临时线路-备用②",
+            "host":"http://gbl3.520sh.com"
+        },
+        {
+            "title":"*宝格丽-临时线路-备用③",
+            "host":"http://gbl4.520sh.com"
+        }
+]
+})

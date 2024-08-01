@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*MLB-推荐线路-首选",
+            "host":"http://mlb1.520sh.com"
+        },
+        {
+            "title":"*MLB-临时线路-备用①",
+            "host":"http://mlb2.520sh.com"
+        },
+        {
+            "title":"*MLB-临时线路-备用②",
+            "host":"http://mlb3.520sh.com"
+        },
+        {
+            "title":"*MLB-临时线路-备用③",
+            "host":"http://mlb4.520sh.com"
+        }
+]
+})

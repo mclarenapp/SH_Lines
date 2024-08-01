@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*问界-推荐线路-首选",
+            "host":"http://wj1.520sh.com"
+        },
+        {
+            "title":"*问界-临时线路-备用①",
+            "host":"http://wj2.520sh.com"
+        },
+        {
+            "title":"*问界-临时线路-备用②",
+            "host":"http://wj3.520sh.com"
+        },
+        {
+            "title":"*问界-临时线路-备用③",
+            "host":"http://wj4.520sh.com"
+        }
+]
+})

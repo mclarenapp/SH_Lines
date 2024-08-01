@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*宝玑-推荐线路-首选",
+            "host":"http://bj1.520sh.com"
+        },
+        {
+            "title":"*宝玑-临时线路-备用①",
+            "host":"http://bj2.520sh.com"
+        },
+        {
+            "title":"*宝玑-临时线路-备用②",
+            "host":"http://bj3.520sh.com"
+        },
+        {
+            "title":"*宝玑-临时线路-备用③",
+            "host":"http://bj4.520sh.com"
+        }
+]
+})
