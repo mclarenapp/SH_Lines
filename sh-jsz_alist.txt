@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*金手指-推荐线路-首选",
+            "host":"https://jsz1.456sh.com"
+        },
+        {
+            "title":"*金手指-备用①",
+            "host":"https://jsz2.456sh.com"
+        },
+        {
+            "title":"*金手指-备用②",
+            "host":"https://jsz1.456sh.com"
+        },
+        {
+            "title":"*金手指-备用③",
+            "host":"https://jsz2.456sh.com"
+        }
+]
+})
