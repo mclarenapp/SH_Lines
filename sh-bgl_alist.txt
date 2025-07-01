@@ -2,19 +2,19 @@ JsonpData({
     "lines":[
         {
             "title":"*宝格丽-推荐线路-首选",
-            "host":"https://gbl1.520sh.com"
+            "host":"https://bgl1.520sh.com/"
         },
         {
             "title":"*宝格丽-备用①",
-            "host":"https://gbl2.520sh.com"
+            "host":"https://bgl2.520sh.com"
         },
         {
             "title":"*宝格丽-备用②",
-            "host":"https://gbl1.520sh.com"
+            "host":"https://bgl1.520sh.com"
         },
         {
             "title":"*宝格丽-备用③",
-            "host":"https://gbl2.520sh.com"
+            "host":"https://bgl2.520sh.com"
         }
 ]
 })
