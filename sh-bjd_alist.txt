@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*布加迪-推荐线路-首选",
+            "host":"https://bjd1.520sh.com"
+        },
+        {
+            "title":"*布加迪-备用①",
+            "host":"https://bjd2.520sh.com"
+        },
+        {
+            "title":"*布加迪-备用②",
+            "host":"https://bjd1.520sh.com"
+        },
+        {
+            "title":"*布加迪-备用③",
+            "host":"https://bjd2.520sh.com"
+        }
+]
+})
