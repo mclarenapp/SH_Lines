@@ -1,0 +1,20 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*奔驰-推荐线路-首选",
+            "host":"https://bc1.456sh.com"
+        },
+        {
+            "title":"*奔驰-临时线路-备用①",
+            "host":"https://bc2.456sh.com"
+        },
+        {
+            "title":"*奔驰-临时线路-备用②",
+            "host":"https://bc1.456sh.com"
+        },
+        {
+            "title":"*奔驰-临时线路-备用③",
+            "host":"https://bc2.456sh.com"
+        }
+]
+})
