@@ -2,19 +2,15 @@ JsonpData({
     "lines":[
         {
             "title":"*小白龙-推荐线路-首选",
-            "host":"https://xbl1.456sh.com"
+            "host":"http://43.248.9.125:444"
         },
         {
             "title":"*小白龙-备用①",
-            "host":"https://xbl2.456sh.com"
+            "host":"http://103.171.34.138:444"
         },
         {
             "title":"*小白龙-备用②",
-            "host":"https://xbl1.456sh.com"
-        },
-        {
-            "title":"*小白龙-备用③",
-            "host":"https://xbl2.456sh.com"
+            "host":"http://103.214.175.150:444"
         }
 ]
 })
