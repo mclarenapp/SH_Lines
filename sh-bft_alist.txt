@@ -2,19 +2,15 @@ JsonpData({
     "lines":[
         {
             "title":"*巴菲特-推荐线路-首选",
-            "host":"https://bft1.456sh.com"
+            "host":"http://43.248.9.125:666"
         },
         {
             "title":"*巴菲特-备用①",
-            "host":"https://bft2.456sh.com"
+            "host":"http://103.171.34.138:666"
         },
         {
             "title":"*巴菲特-备用②",
-            "host":"https://bft1.456sh.com"
-        },
-        {
-            "title":"*巴菲特-备用③",
-            "host":"https://bft2.456sh.com"
+            "host":"http://103.214.175.150:666"
         }
 ]
 })
