@@ -2,19 +2,15 @@ JsonpData({
     "lines":[
         {
             "title":"*哈雷-推荐线路-首选",
-            "host":"https://hl1.456sh.com"
+            "host":"http://43.248.9.125:333"
         },
         {
             "title":"*哈雷-备用①",
-            "host":"https://hl2.456sh.com"
+            "host":"http://103.171.34.138:333"
         },
         {
             "title":"*哈雷-备用②",
-            "host":"https://hl1.456sh.com"
-        },
-        {
-            "title":"*哈雷-备用③",
-            "host":"https://hl2.456sh.com"
+            "host":"http://103.214.175.150:333"
         }
 ]
 })
