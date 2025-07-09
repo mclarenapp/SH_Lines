@@ -2,19 +2,11 @@ JsonpData({
     "lines":[
         {
             "title":"*宝玑-推荐线路-首选",
-            "host":"https://bj1.520sh.com"
+            "host":"http://103.171.34.151:333"
         },
         {
             "title":"*宝玑-备用①",
-            "host":"https://bj2.520sh.com"
-        },
-        {
-            "title":"*宝玑-备用②",
-            "host":"https://bj1.520sh.com"
-        },
-        {
-            "title":"*宝玑-备用③",
-            "host":"https://bj2.520sh.com"
+            "host":"http://103.214.175.194:333"
         }
 ]
 })
